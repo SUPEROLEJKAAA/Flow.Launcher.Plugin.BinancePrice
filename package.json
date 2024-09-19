@@ -1,0 +1,10 @@
+{
+  "name": "BinancePrice",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "child_process": "^1.0.2",
+    "flow-launcher-helper": "^2.2.0",
+    "open": "^10.1.0"
+  }
+}

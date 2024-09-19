@@ -1,0 +1,12 @@
+{
+  "ID": "9E3D73EA-6618-40B4-AA2A-60F6F60CDD15",
+  "ActionKeyword": "bn",
+  "Name": "BinancePrice",
+  "Description": "Get the current value of cryptocurrency coin",
+  "Author": "SUPEROLEJKAAA",
+  "Version": "1.0.0",
+  "Language": "JavaScript",
+  "Website": "https://github.com/SUPEROLEJKAAA/flow-binance-price",
+  "ExecuteFileName": ".\\src\\index.js",
+  "IcoPath": ".\\icons\\app.png"
+}
