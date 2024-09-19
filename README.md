@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Binance-Price Plugin
 
 This plugin allows you to easily retrieve the current price of any cryptocurrency listed on the Binance exchange.
@@ -15,4 +14,3 @@ To activate the plugin, use the keyword `bn`.
 =======
 # Flow.Launcher.Plugin.BinancePrice
 Flow Launcher plugin to get the current price of cryptocurrencies
->>>>>>> b6a938e72a231863b3e83fbb86e8954779704135
