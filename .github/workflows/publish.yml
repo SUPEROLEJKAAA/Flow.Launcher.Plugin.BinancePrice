@@ -26,10 +26,6 @@ jobs:
       - run: echo ${{steps.version.outputs.prop}}
       - name: Install dependencies
         run: npm install
-      - name: Build
-        run: |
-          npm run build
-          npm prune --omit=dev
       - name: Package
         run: zip -r Flow.Launcher.Plugin.BinancePrice.zip . -x '*.git*' -x 'image/*' -x 'README.md'
       - name: Publish
